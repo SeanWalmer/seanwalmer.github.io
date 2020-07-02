@@ -1,2 +1,2 @@
 # Sean Walmer - Portfolio
-Updated portfolio as of 5/1/2020
+Updated portfolio as of 5/1/20
