@@ -5,7 +5,7 @@ export default function Navbar() {
     <header>
         <nav className="nav-wrapper blue accent-2">
         <div className="container">
-            <a href="https://www.linkedin.com/in/seanwalmer/" className="">Sean Walmer</a>
+            <a href="https://www.linkedin.com/in/seanwalmer/" className="brand-logo">Sean Walmer</a>
             {/* eslint-disable-next-line */}
             <a href="#" className="sidenav-trigger right" data-target="mobile-menu">
                 <i className="material-icons">menu</i>
