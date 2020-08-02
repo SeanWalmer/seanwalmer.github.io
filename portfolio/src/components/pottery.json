@@ -1,0 +1,26 @@
+[
+  {
+    "image": "img/mug1.jpg" ,
+    "discrip": "Simple mug with a curled handel"
+  },
+  {
+    "image": "img/mug2.jpg" ,
+    "discrip": "Small tea cup with"
+  },
+  {
+    "image": "img/plates1.jpg" ,
+    "discrip": "Stacked plates"
+  },
+  {
+    "image": "img/plates2.jpg" ,
+    "discrip": "Lunch and dinner plates"
+  },
+  {
+    "image": "img/test.jpg" ,
+    "discrip": "blue salsa bowl"
+  },
+  {
+    "image": "img/glazed.jpg" ,
+    "discrip": "Ready to be glaze fired works"
+  }
+]
