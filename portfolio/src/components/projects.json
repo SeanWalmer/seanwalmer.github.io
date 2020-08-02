@@ -1,0 +1,44 @@
+[
+  {
+    "image": "img/GIT Boardgame.png" ,
+    "title": "Boardgame Swap" ,
+    "discrip": "This is an ongoing project still in very early alpha phases. This application will be a social platform for boardgame lovers. It is meant to help people who enjoy boardgames find others who would like to trade games so both parties don’t need to go out and buy a whole new game. Boardgames are often very expensive and so users can save money by trading rather than buying new. This app serves a secondary purpose in connecting people who share a similar interest. Boardgames are an inherently social experience and often it can be hard to find other who you can play with! This app will have the secondary effect of making this process passive and easier!",
+    "app": "https://boardgames-unlimited.herokuapp.com/",
+    "repo": "https://github.com/TBD-bepatient/The-4th-Stood"
+  },
+  {
+    "image": "img/GIT WeatherDash.png" ,
+    "title": "Weather Dash" ,
+    "discrip": "Simple weather dashboard to track current weather and 5 day forcasts.",
+    "app": "https://seanwalmer.github.io/WeatherDash/#!",
+    "repo": "https://github.com/SeanWalmer/WeatherDash"
+  },
+  {
+    "image": "img/GIT DayPlanner.png" ,
+    "title": "Day Planner" ,
+    "discrip": "Allows you to enter in meetings and events into a day planner that then colors your planner based on the current time.",
+    "app": "https://seanwalmer.github.io/HW5-Day_Planner/",
+    "repo": "https://github.com/SeanWalmer/HW5-Day_Planner"
+  },
+  {
+    "image": "img/GIT CodeQuiz.png" ,
+    "title": "Code Quiz" ,
+    "discrip": "Simple little quiz app to practice writing to a page based on user input.",
+    "app": "https://seanwalmer.github.io/HW4-Code_Quiz/",
+    "repo": "https://github.com/SeanWalmer/HW4-Code_Quiz"
+  },
+  {
+    "image": "img/GIT PassGen.png" ,
+    "title": "Password Generator" ,
+    "discrip": "Generates a password based on user input.",
+    "app": "https://seanwalmer.github.io/HW3-Password_Generator/",
+    "repo": "https://github.com/SeanWalmer/HW3-Password_Generator"
+  },
+  {
+    "image": "img/GIT FuleUP.png" ,
+    "title": "Fule Up!" ,
+    "discrip": "First group project to create an a website. Hooks into Yelp and Open Charge Map api's to help you find near by fuel or charging stations.",
+    "app": "https://team6diamondplatipi.github.io/TechnicallyAMammal/",
+    "repo": "https://github.com/Team6DiamondPlatipi/TechnicallyAMammal"
+  }
+]
