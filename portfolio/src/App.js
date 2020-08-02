@@ -8,6 +8,7 @@ import ProjectSec from './components/ProjectSec';
 import ProjectList from './components/projects.json'
 import ProjectRight from './components/ProjectRight';
 import ProjectLeft from './components/ProjectLeft';
+import Pottery from './components/Pottery';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         <hr></hr>
       </ProjectSec>
       <Parallax link='img/works.jpg' altText='unglazed pottery' />
+      <Pottery/>
     </div>
   );
 }
