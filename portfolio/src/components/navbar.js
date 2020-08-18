@@ -16,7 +16,7 @@ export default function Navbar() {
                 <li><a href="https://1drv.ms/b/s!AoXqQA-JgNWNoftAXFT2Sdz-8dmtxg" target="_blank" rel="noopener noreferrer">Resume</a></li>
                 <li><a href="https://www.linkedin.com/in/seanwalmer/" className="tooltipped btn-floating btn-small deep-purple accent-4" data-position="bottom" data-tooltip="LinkedIn" target="_blank" rel="noopener noreferrer"> <i className="fab fa-linkedin"></i></a></li>
                 <li><a href="https://github.com/SeanWalmer" className="tooltipped btn-floating btn-small deep-purple accent-4" data-position="bottom" data-tooltip="GitHub" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a></li>
-                <li><a href="https://www.instagram.com/darwful_sean/" className="tooltipped btn-floating btn-small deep-purple accent-4" data-position="bottom" data-tooltip="Instagram" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a></li>
+                <li><a href="https://www.instagram.com/drawful_sean/" className="tooltipped btn-floating btn-small deep-purple accent-4" data-position="bottom" data-tooltip="Instagram" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a></li>
             </ul>
             <ul className="sidenav grey lighten-2" id="mobile-menu">
                 {/* <li className="blue center-align">Navagation</li> */}
